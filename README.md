@@ -22,16 +22,18 @@ O repositório inclui:
 
 ## 📂 Estrutura do Projeto
 
+```plaintext
 sefaz-nfe-status/
 ├─ src/
-│ └─ main_status.py # Script principal
+│  └─ main_status.py # Script principal
 ├─ tmp/
-│ ├─ cert.pem # Certificado digital A1 (placeholder)
-│ └─ key.pem # Chave privada (placeholder)
+│  ├─ cert.pem # Certificado digital A1 (placeholder)
+│  └─ key.pem # Chave privada (placeholder)
 ├─ xml_respostas/ # Saída das consultas
 ├─ .env # Configurações do projeto
 ├─ requirements.txt # Dependências
 └─ README.md
+```
 
 ---
 
