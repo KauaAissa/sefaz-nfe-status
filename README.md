@@ -140,6 +140,18 @@ Exemplo de JSON:
 
 ---
 
-## 📜 Licença
+## 🔗 Projetos Relacionados
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+- [🍳 sefaz-nfe-distribuicao – Web Service](https://github.com/KauaAissa/sefaz-nfe-distribuicao)
+
+---
+
+## 📌 Autor
+
+Desenvolvido por **Kauã Aissa** 💻
+<img src="assets/blackcat.png" alt="Logo Gato Preto" width="120" align="right" />
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kauaaissa)  
+🔗 [GitHub](https://github.com/KauaAissa)
+
+---
